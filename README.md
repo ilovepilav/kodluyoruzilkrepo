@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz repo. İçerisinde README dosyası, bir adet de index.html barındırıyor.
 
-<img src="/kodluyoruzilkrepo.jpg" alt="Kodluyoruz İlk Repo">
+<img src="https://github.com/ilovepilav/kodluyoruzilkrepo/blob/main/kodluyoruzilkrepo.JPG" alt="Kodluyoruz İlk Repo">
 
 ## Installation
 
